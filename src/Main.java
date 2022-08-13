@@ -15,7 +15,7 @@ public class Main {
         System.out.println(arr1[0] + "," + arr1[1] + "," + arr1[2]);
         for (int i = 0; i < arr2.length; i++ ){
             System.out.print(arr2[i] + ",");   // так тоже могу, но в задании не указано. Видел, другие так решали и страхуюсь
-     }
+        }
         System.out.println();
         // Задание 3
         System.out.println(arr[2] + "," + arr[1] + "," + arr[0]);
